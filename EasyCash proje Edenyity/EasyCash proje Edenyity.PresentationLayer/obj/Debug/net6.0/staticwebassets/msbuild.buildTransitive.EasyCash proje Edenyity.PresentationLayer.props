@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EasyCash proje Edenyity.PresentationLayer.props" />
+</Project>

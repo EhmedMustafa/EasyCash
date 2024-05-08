@@ -1,0 +1,34 @@
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.deps.json
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.runtimeconfig.json
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.dll
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.pdb
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.EntityLayer.dll
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.EntityLayer.pdb
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.csproj.CopyComplete
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.dll
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\refint\EasyCash proje Edenyity.DataAccessLayer.dll
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.pdb
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Ehmed\Downloads\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\ref\EasyCash proje Edenyity.DataAccessLayer.dll
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.deps.json
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.runtimeconfig.json
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.dll
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.pdb
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.EntityLayer.dll
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\bin\Debug\net6.0\EasyCash proje Edenyity.EntityLayer.pdb
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.csproj.CopyComplete
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.dll
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\refint\EasyCash proje Edenyity.DataAccessLayer.dll
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.pdb
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\EasyCash proje Edenyity.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Ehmed\Downloads\easychash projesi\EasyCash proje Edenyity\EasyCash proje Edenyity.DataAccessLayer\obj\Debug\net6.0\ref\EasyCash proje Edenyity.DataAccessLayer.dll

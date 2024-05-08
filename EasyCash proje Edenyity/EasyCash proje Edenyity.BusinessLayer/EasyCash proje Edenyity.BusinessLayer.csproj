@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>EasyCash_proje_Edenyity.BusinessLayer</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.26">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.26">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EasyCash proje Edenyity.DataAccessLayer\EasyCash proje Edenyity.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\EasyCash proje Edenyity.DtoLayer\EasyCash proje Edenyity.DtoLayer.csproj" />
+    <ProjectReference Include="..\EasyCash proje Edenyity.EntityLayer\EasyCash proje Edenyity.EntityLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ValidationRules\AppRoleVAlidationRules\" />
+    <Folder Include="ValidationRules\CusmoterAccountValidationRules\" />
+    <Folder Include="ValidationRules\CustomerAccountProcessValidationRules\" />
+  </ItemGroup>
+
+</Project>

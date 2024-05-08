@@ -1,0 +1,40 @@
+﻿@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_CustomerLayoutHeaderPartial")
+<body class="nav-md">
+    <div class="container body">
+        <div class="main_container">
+           
+
+            <!-- top navigation -->
+             @await Component.InvokeAsync("_CustomerLayoutSideBarPartial")
+            <!-- /top navigation -->
+            @await Component.InvokeAsync("_CustomerLayoutNavbarPartial")
+            <!-- page content -->
+            <div class="right_col" role="main">
+               
+                            <h2> @RenderBody()</h2>
+                            <h3>Fixed Sidebar <small> Just add class <strong>menu_fixed</strong></small></h3>
+               
+            <!-- /page content -->
+            <!-- footer content -->
+          
+            <footer>
+                <div class="pull-right">
+                    Easy Cash Müşteri Paneli @DateTime.Now.Year | Tüm Hakları Saklıdır
+                </div>
+                <div class="clearfix"></div>
+            </footer>
+            <!-- /footer content -->
+        </div>
+    </div>
+
+    @await Component.InvokeAsync("_CustomerLayoutScriptPartial")
+</body>
+</html>
